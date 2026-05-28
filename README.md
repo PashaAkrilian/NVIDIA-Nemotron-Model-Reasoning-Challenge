@@ -1,10 +1,10 @@
-# NVIDIA Nemotron Model Reasoning Challenge
+# NVIDIA Nemotron Model Reasoning 
 
 
 
 
 
-A collaborative deep learning and LLM fine-tuning project developed for the **NVIDIA Nemotron Model Reasoning Challenge**.
+A collaborative deep learning and LLM fine-tuning project developed for the **NVIDIA Nemotron Model Reasoning**.
 
 This project focuses on improving the reasoning capability of the **Nemotron-3-Nano-30B** model using:
 
